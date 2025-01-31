@@ -1,0 +1,6 @@
+----- TIKET CINEPOLIS PYTHON GRACIAS POR TU COMPRA :) -----
+Nombre del comprador: Veronica
+Cantidad de boletos solicitados: 1
+Total a pagar: $12.00
+-----------------------------------------------------------
+
